@@ -1,0 +1,9 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+
+    - text: "Case Study Beers"
+      href: Knit_Case_1.html

@@ -5,7 +5,4 @@ date: "7/11/2021"
 output: html_document
 ---
 
-# The simple but Awesome Website
-## Note:The 6 text above are the Yaml tags
-### We will knit the rmd to the html file next
-Then push index.html to the github.io repo.
+##About me, I dont like drinking Alcohol
